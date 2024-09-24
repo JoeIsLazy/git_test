@@ -1,0 +1,1 @@
+This is just a place for me to learn the basics of git and set it up on my machine.
